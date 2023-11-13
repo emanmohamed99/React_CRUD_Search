@@ -1,0 +1,10 @@
+.searchwrapper {
+  margin: 20px;
+}
+.search {
+  width: 30%;
+  padding: 1em;
+  background-color: aliceblue;
+  border-radius: 1em;
+  margin: 10px 0;
+}

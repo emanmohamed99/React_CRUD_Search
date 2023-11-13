@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 95,
+      "name": "farah",
+      "gender": "male",
+      "phone": "1234"
+    },
+    {
+      "id": 81,
+      "name": "ahmed",
+      "gender": "female",
+      "phone": "+201005468048"
+    },
+    {
+      "id": 6,
+      "name": "eman",
+      "gender": "male",
+      "phone": "+201005468048"
+    }
+  ]
+}
